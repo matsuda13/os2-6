@@ -1,3 +1,0 @@
-C:/Users/higak/Doc/Lect/B2_2/os/os2-6/build/CMakeFiles/main_app.dir
-C:/Users/higak/Doc/Lect/B2_2/os/os2-6/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/higak/Doc/Lect/B2_2/os/os2-6/build/CMakeFiles/ZERO_CHECK.dir
